@@ -88,7 +88,7 @@ class Progress:
                 humanbytes(speed),
                 # elapsed_time if elapsed_time != '' else "0 s",
                 estimated_total_time if estimated_total_time != "" else "0 s",
-            #tmp += "\n│"+"\n╰── ⌊ @TGFilmZone ⌉"
+            #tmp += "\n│"+"\n╰── ⌊ 𝙒𝙃𝙄𝙏𝙀 𝘿𝙀𝙑𝙄𝙇 ⌉"
             )
             try:
                 if not self._mess.photo:
